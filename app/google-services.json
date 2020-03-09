@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190931321494",
+    "firebase_url": "https://serviapp-247201.firebaseio.com",
+    "project_id": "serviapp-247201",
+    "storage_bucket": "serviapp-247201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190931321494:android:b4f003889287c0a7",
+        "android_client_info": {
+          "package_name": "co.com.tablesa.serviapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190931321494-tsngdoor4se0ug4k23bht1s2amcgpv51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.com.tablesa.serviapp",
+            "certificate_hash": "0ef8063a482ea39f6fda56470d51a4ccab307ccc"
+          }
+        },
+        {
+          "client_id": "190931321494-ngrqi8k5m66og8s8lrrd5s1podf79rsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzgKJzswZiOgEXWjp5uLEACSIqwLu3p1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190931321494-ngrqi8k5m66og8s8lrrd5s1podf79rsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
