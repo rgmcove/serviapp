@@ -1,8 +1,0 @@
-Generar un hash de clave de desarrollo
-
-C:\Program Files (x86)\Java\jdk1.8.0_161\bin>keytool -exportcert -alias androiddebugkey -keystore "C:\Users\Ralbe\.android\debug.keystore" | "D:\Descargas\openssl-0.9.8k_X64\bin\openssl" sha1 -binary | "D:\Descargas\openssl-0.9.8k_X64\bin\openssl" base64
-Introduzca la contraseña del almacén de claves:  android
-
-Warning:
-El almacén de claves JKS utiliza un formato propietario. Se recomienda migrar a PKCS12, que es un formato estándar del sector que utiliza "keytool -importkeystore -srckeystore C:\Users\Ralbe\.android\debug.keystore -destkeystore C:\Users\Ralbe\.android\debug.keystore -deststoretype pkcs12".
-DvgGOkguo59v2lZHDVGkzKswfMw=
